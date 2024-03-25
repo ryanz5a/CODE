@@ -1,6 +1,6 @@
 a = 10 
 b = 12
-
+# Make sure a is equal to b
 #print(a == b)
 
 
