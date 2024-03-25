@@ -13,3 +13,6 @@ if b > a:
 else:
 
     print(a < b)
+
+#  code specific to decision making.
+
